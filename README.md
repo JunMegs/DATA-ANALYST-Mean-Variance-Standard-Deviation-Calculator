@@ -1,0 +1,1 @@
+This project implements a Python function that calculates several key statistical properties — mean, variance, standard deviation, max, min, and sum — for a 3×3 matrix using the NumPy library. It also includes automated unit testing to ensure the correctness of results and input validation.
